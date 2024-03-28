@@ -67,5 +67,3 @@ Ben Berton (for C++ class)
 
 ```
 ```
-
-Make the above readme look good on GitHub README.
