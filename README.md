@@ -1,4 +1,3 @@
-```markdown
 # Simple Integer Calculator in C++
 
 This repository implements a basic integer calculator program written in C++. It supports essential arithmetic operations and evaluates mathematical expressions entered in infix notation.
@@ -15,9 +14,9 @@ Ensure you have a C++ compiler installed (e.g., GCC, Clang).
 
 ### Clone or Download:
 Clone this repository using Git:
-```
+
 git clone https://github.com/<your-username>/simple-integer-calculator.git
-```
+
 or download the ZIP file.
 
 ### Build:
@@ -64,6 +63,3 @@ Ben Berton (for C++ class)
 ## License:
 
 (Specify the license you wish to use, e.g., MIT, Apache 2.0).
-
-```
-```
