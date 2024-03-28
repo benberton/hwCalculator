@@ -47,10 +47,6 @@ The program provides clear output, including:
 - Expression Breakdown: Shows the conversion process from infix to postfix notation for better understanding.
 - Calculated Value: Returns the final result of the evaluated expression.
 
-## Contributing:
-
-We welcome contributions to this project! If you'd like to make improvements or add features, feel free to fork the repository, create pull requests, and share your ideas.
-
 ## Developed by:
 
 Ben Berton (for C++ class)
