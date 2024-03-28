@@ -29,12 +29,12 @@ To execute the calculator and evaluate an expression:
 ```bash
 ./calc "<expression>"
 ```
-**Use code with caution.**
+**Do not use spaces between values in the expression.**
 
 ### Example:
 
 ```bash
-./calc "(3 + 2) * 5"
+./calc "(3+2)*5"
 ```
 **Use code with caution.**
 
