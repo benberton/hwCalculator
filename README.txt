@@ -1,22 +1,71 @@
-**Calculator Program README**
+```markdown
+# Simple Integer Calculator in C++
 
-This repository contains a simple integer calculator program implemented in C++. The calculator supports basic arithmetic operations and evaluates mathematical expressions provided in infix notation.
+This repository implements a basic integer calculator program written in C++. It supports essential arithmetic operations and evaluates mathematical expressions entered in infix notation.
 
-### How to Compile and Run
-- To compile the program, simply run `make` in the terminal.
-- To remove the generated object files, use `make clean`.
-- To run:
-    ```
-    ./calc "<add expression>"
-    ```
-    Example:
-    ```
-    ./calc "(3+2)*5"
-    ```
+## Features:
+- Performs calculations on integers.
+- Evaluates infix expressions following PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction) order of operations.
+- Provides a step-by-step breakdown of expression conversion (infix to postfix) for transparency.
 
-### What it returns
-- Shows how the calculator breaks down the expression (converting from infix to postfix) following PEMDAS rules.
-- Returns the calculated value.
+## Getting Started:
 
-### Contributors
-- Developed by Ben Berton for C++ class.
+### Prerequisites:
+Ensure you have a C++ compiler installed (e.g., GCC, Clang).
+
+### Clone or Download:
+Clone this repository using Git:
+```
+git clone https://github.com/<your-username>/simple-integer-calculator.git
+```
+or download the ZIP file.
+
+### Build:
+Navigate to the project directory in your terminal and run `make`. This will compile the program and generate an executable named `calc`.
+
+## Usage:
+
+To execute the calculator and evaluate an expression:
+
+```bash
+./calc "<expression>"
+```
+**Use code with caution.**
+
+### Example:
+
+```bash
+./calc "(3 + 2) * 5"
+```
+**Use code with caution.**
+
+The program will display the breakdown of expression conversion and the final calculated value.
+
+## Output:
+
+The program provides clear output, including:
+
+- Expression Breakdown: Shows the conversion process from infix to postfix notation for better understanding.
+- Calculated Value: Returns the final result of the evaluated expression.
+
+## Contributing:
+
+We welcome contributions to this project! If you'd like to make improvements or add features, feel free to fork the repository, create pull requests, and share your ideas.
+
+## Developed by:
+
+Ben Berton (for C++ class)
+
+## Additional Notes:
+
+- To remove generated object files after compilation, use `make clean`.
+- For more advanced mathematical operations or real-number calculations, consider extending the program's capabilities.
+
+## License:
+
+(Specify the license you wish to use, e.g., MIT, Apache 2.0).
+
+```
+```
+
+Make the above readme look good on GitHub README.
