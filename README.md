@@ -15,7 +15,7 @@ Ensure you have a C++ compiler installed (e.g., GCC, Clang).
 ### Clone or Download:
 Clone this repository using Git:
 
-git clone https://github.com/<your-username>/simple-integer-calculator.git
+git clone https://github.com/benberton/simple-integer-calculator.git
 
 or download the ZIP file.
 
